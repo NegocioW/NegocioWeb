@@ -14,7 +14,11 @@
 
   
     <center>
+<<<<<<< HEAD
         <h1>Formulario Categorias</h1>
+=======
+        <h1>Categorias</h1>
+>>>>>>> prueba
      <table style="width: 35%;">
          <tr>
              <td>&nbsp;</td>
