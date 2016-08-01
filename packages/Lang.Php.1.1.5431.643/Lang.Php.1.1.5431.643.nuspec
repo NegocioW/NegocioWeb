@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Lang.Php</id>
+    <version>1.1.5431.643</version>
+    <title>Native PHP functions mapped to .NET</title>
+    <authors>Internet Sukces Piotr Stęclik</authors>
+    <owners>Internet Sukces Piotr Stęclik</owners>
+    <projectUrl>http://www.cs2php.com/</projectUrl>
+    <iconUrl>http://www.cs2php.com/wp-content/uploads/2013/12/cs2php_icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Translate existing C# code into native PHP code. Test and debug C# code directly in IDE environment with Apache+PHP simulation. Reference native PHP libraries from C# projects.</description>
+    <releaseNotes>Improved preg_match support.</releaseNotes>
+    <copyright>Copyright by Internet Sukces Piotr Stęclik 2014</copyright>
+    <tags>Php Wordpress C#</tags>
+    <dependencies>
+      <dependency id="MySql.Data" version="6.7.4" />
+    </dependencies>
+  </metadata>
+</package>

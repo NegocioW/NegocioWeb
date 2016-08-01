@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{57C29721-78B1-423D-BA91-6CE6390C7ABB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa de datos", "Capa de datos", "{8E645A4E-9F6A-4014-8EE7-9F354113A25F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa de negocio", "Capa de negocio", "{85C8A9B7-87D7-4158-A359-6F9577B50F4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa de datos", "Capa de datos\Capa de datos.csproj", "{AEBA49F6-B732-42CE-885F-53BBEE9F8610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa de negocio", "Capa de negocio\Capa de negocio.csproj", "{6DC36FEA-D9D2-44D7-B5F6-DB00D3371264}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{25D10F1A-5613-45C3-837F-57F5DDBF6437}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\mod\css\bootstrap-theme.css = ..\..\mod\css\bootstrap-theme.css
+		..\..\mod\css\bootstrap-theme.css.map = ..\..\mod\css\bootstrap-theme.css.map
+		..\..\mod\css\bootstrap-theme.min.css = ..\..\mod\css\bootstrap-theme.min.css
+		..\..\mod\css\bootstrap.css = ..\..\mod\css\bootstrap.css
+		..\..\mod\css\bootstrap.css.map = ..\..\mod\css\bootstrap.css.map
+		..\..\mod\css\bootstrap.min.css = ..\..\mod\css\bootstrap.min.css
+		..\..\mod\css\estilo.css = ..\..\mod\css\estilo.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{9E96C923-C276-485C-8A6A-F7A4819AFF4E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\mod\js\bootstrap.js = ..\..\mod\js\bootstrap.js
+		..\..\mod\js\bootstrap.min.js = ..\..\mod\js\bootstrap.min.js
+		..\..\mod\js\carousel.js = ..\..\mod\js\carousel.js
+		..\..\mod\js\jquery.1.8.1.js = ..\..\mod\js\jquery.1.8.1.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C29721-78B1-423D-BA91-6CE6390C7ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C29721-78B1-423D-BA91-6CE6390C7ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C29721-78B1-423D-BA91-6CE6390C7ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C29721-78B1-423D-BA91-6CE6390C7ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBA49F6-B732-42CE-885F-53BBEE9F8610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBA49F6-B732-42CE-885F-53BBEE9F8610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBA49F6-B732-42CE-885F-53BBEE9F8610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBA49F6-B732-42CE-885F-53BBEE9F8610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC36FEA-D9D2-44D7-B5F6-DB00D3371264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC36FEA-D9D2-44D7-B5F6-DB00D3371264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC36FEA-D9D2-44D7-B5F6-DB00D3371264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC36FEA-D9D2-44D7-B5F6-DB00D3371264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AEBA49F6-B732-42CE-885F-53BBEE9F8610} = {8E645A4E-9F6A-4014-8EE7-9F354113A25F}
+		{6DC36FEA-D9D2-44D7-B5F6-DB00D3371264} = {85C8A9B7-87D7-4158-A359-6F9577B50F4F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,401 @@
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\Negocio.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\Negocio.pdb
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\Antlr3.Runtime.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\DotNetOpenAuth.Core.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\EntityFramework.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\Microsoft.Web.Infrastructure.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\System.Web.Optimization.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\System.Web.Providers.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\WebGrease.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\EntityFramework.xml
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\DotNetOpenAuth.Core.xml
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.xml
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.xml
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.xml
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\es\EntityFramework.resources.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\es\System.Web.Optimization.resources.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\es\System.Web.Providers.resources.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\obj\Debug\Negocio.dll
+c:\users\zago\documents\visual studio 2012\Projects\Negocio\Negocio\obj\Debug\Negocio.pdb
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Negocio\bin\Capa de negocio.dll
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Negocio\bin\Capa de datos.dll
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Negocio\bin\Capa de negocio.pdb
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Negocio\bin\Capa de datos.pdb
+E:\Negocio\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\Negocio\Negocio\obj\Debug\Negocio.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\obj\Debug\Negocio.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Negocio.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Negocio.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Capa de negocio.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\DotNetOpenAuth.Core.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\EntityFramework.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\System.Web.Providers.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\WebGrease.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Capa de datos.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Capa de negocio.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\EntityFramework.xml
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\DotNetOpenAuth.Core.xml
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\Capa de datos.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\es\EntityFramework.resources.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\es\System.Web.Providers.resources.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Negocio\obj\Debug\Negocio.pdb
+H:\Negocio\Negocio\bin\Negocio.dll
+H:\Negocio\Negocio\bin\Negocio.pdb
+H:\Negocio\Negocio\bin\Antlr3.Runtime.dll
+H:\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.dll
+H:\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+H:\Negocio\Negocio\bin\Capa de negocio.dll
+H:\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.dll
+H:\Negocio\Negocio\bin\DotNetOpenAuth.Core.dll
+H:\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.dll
+H:\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.dll
+H:\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\Negocio\Negocio\bin\EntityFramework.dll
+H:\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+H:\Negocio\Negocio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\Negocio\Negocio\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\Negocio\Negocio\bin\Microsoft.ScriptManager.WebForms.dll
+H:\Negocio\Negocio\bin\Microsoft.Web.Infrastructure.dll
+H:\Negocio\Negocio\bin\System.Web.Optimization.dll
+H:\Negocio\Negocio\bin\System.Web.Providers.dll
+H:\Negocio\Negocio\bin\WebGrease.dll
+H:\Negocio\Negocio\bin\Capa de datos.dll
+H:\Negocio\Negocio\bin\Capa de negocio.pdb
+H:\Negocio\Negocio\bin\EntityFramework.xml
+H:\Negocio\Negocio\bin\DotNetOpenAuth.Core.xml
+H:\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.xml
+H:\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.xml
+H:\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.xml
+H:\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+H:\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\Negocio\Negocio\bin\Capa de datos.pdb
+H:\Negocio\Negocio\bin\es\EntityFramework.resources.dll
+H:\Negocio\Negocio\bin\es\System.Web.Optimization.resources.dll
+H:\Negocio\Negocio\bin\es\System.Web.Providers.resources.dll
+H:\Negocio\Negocio\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+H:\Negocio\Negocio\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+H:\Negocio\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+H:\Negocio\Negocio\obj\Debug\Negocio.dll
+H:\Negocio\Negocio\obj\Debug\Negocio.pdb
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Negocio.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Negocio.pdb
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Antlr3.Runtime.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Capa de negocio.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\DotNetOpenAuth.Core.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\EntityFramework.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\System.Web.Optimization.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\System.Web.Providers.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\WebGrease.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Capa de datos.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Capa de negocio.pdb
+C:\Users\zago\Desktop\Negocio\Negocio\bin\EntityFramework.xml
+C:\Users\zago\Desktop\Negocio\Negocio\bin\DotNetOpenAuth.Core.xml
+C:\Users\zago\Desktop\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\zago\Desktop\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\zago\Desktop\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\zago\Desktop\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\zago\Desktop\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\zago\Desktop\Negocio\Negocio\bin\Capa de datos.pdb
+C:\Users\zago\Desktop\Negocio\Negocio\bin\es\EntityFramework.resources.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\es\System.Web.Optimization.resources.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\es\System.Web.Providers.resources.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\zago\Desktop\Negocio\Negocio\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\zago\Desktop\Negocio\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\zago\Desktop\Negocio\Negocio\obj\Debug\Negocio.dll
+C:\Users\zago\Desktop\Negocio\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Negocio.dll.config
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Negocio.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Negocio.pdb
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Antlr3.Runtime.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Capa de negocio.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.Core.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\EntityFramework.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\System.Web.Optimization.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\System.Web.Providers.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\WebGrease.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Capa de datos.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Capa de negocio.pdb
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\EntityFramework.xml
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.Core.xml
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\Capa de datos.pdb
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\es\EntityFramework.resources.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\es\System.Web.Optimization.resources.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\es\System.Web.Providers.resources.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.pdb
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Negocio.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Negocio.pdb
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Antlr3.Runtime.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Capa de negocio.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.Core.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\EntityFramework.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\System.Web.Optimization.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\System.Web.Providers.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\WebGrease.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Capa de datos.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Capa de negocio.pdb
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\EntityFramework.xml
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.Core.xml
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\Capa de datos.pdb
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\es\EntityFramework.resources.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\es\System.Web.Optimization.resources.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\es\System.Web.Providers.resources.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.pdb
+C:\Users\zago\Documents\Negocio Web\Negocio\Negocio\bin\AjaxControlToolkit.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Negocio.dll.config
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Negocio.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Negocio.pdb
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Antlr3.Runtime.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Capa de negocio.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.Core.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\EntityFramework.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\System.Web.Optimization.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\System.Web.Providers.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\WebGrease.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Capa de datos.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Capa de negocio.pdb
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\EntityFramework.xml
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.Core.xml
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\Capa de datos.pdb
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\es\EntityFramework.resources.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\es\System.Web.Providers.resources.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Negocio.dll.config
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Negocio.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Negocio.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\AjaxControlToolkit.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Antlr3.Runtime.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Capa de datos.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Capa de negocio.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.Core.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\EntityFramework.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Lang.Php.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Lang.Php.Wp.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\MySql.Data.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\MySql.Web.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\System.Web.Optimization.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\System.Web.Providers.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\WebGrease.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Capa de datos.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Capa de negocio.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Lang.Php.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Lang.Php.Wp.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\EntityFramework.xml
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.Core.xml
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\es\EntityFramework.resources.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\es\System.Web.Optimization.resources.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\es\System.Web.Providers.resources.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.dll.licenses
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Negocio.dll.config
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Negocio.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Negocio.pdb
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\AjaxControlToolkit.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Antlr3.Runtime.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Capa de datos.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Capa de negocio.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\DotNetOpenAuth.Core.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\EntityFramework.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Lang.Php.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Lang.Php.Wp.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\MySql.Data.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\MySql.Web.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\System.Web.Optimization.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\System.Web.Providers.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\WebGrease.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Capa de datos.pdb
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Capa de negocio.pdb
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Lang.Php.pdb
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Lang.Php.Wp.pdb
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\EntityFramework.xml
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\DotNetOpenAuth.Core.xml
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\es\EntityFramework.resources.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\es\System.Web.Optimization.resources.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\es\System.Web.Providers.resources.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\obj\Debug\Negocio.dll.licenses
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Negocio\obj\Debug\Negocio.pdb

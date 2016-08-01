@@ -1,0 +1,67 @@
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Capa de negocio\bin\Debug\Capa de negocio.pdb
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Capa de negocio\bin\Debug\Capa de datos.dll
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Capa de negocio\bin\Debug\Capa de datos.pdb
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Capa de negocio\obj\Debug\Capa de negocio.csprojResolveAssemblyReference.cache
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Capa de negocio\obj\Debug\Capa de negocio.dll
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Capa de negocio\obj\Debug\Capa de negocio.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Capa de negocio\bin\Debug\Capa de negocio.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Capa de negocio\bin\Debug\Capa de datos.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Capa de negocio\bin\Debug\Capa de datos.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Capa de negocio\obj\Debug\Capa de negocio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Capa de negocio\obj\Debug\Capa de negocio.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Capa de negocio\obj\Debug\Capa de negocio.pdb
+H:\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll
+H:\Negocio\Capa de negocio\bin\Debug\Capa de negocio.pdb
+H:\Negocio\Capa de negocio\bin\Debug\Capa de datos.dll
+H:\Negocio\Capa de negocio\bin\Debug\Capa de datos.pdb
+H:\Negocio\Capa de negocio\obj\Debug\Capa de negocio.csprojResolveAssemblyReference.cache
+H:\Negocio\Capa de negocio\obj\Debug\Capa de negocio.dll
+H:\Negocio\Capa de negocio\obj\Debug\Capa de negocio.pdb
+C:\Users\zago\Desktop\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll
+C:\Users\zago\Desktop\Negocio\Capa de negocio\bin\Debug\Capa de negocio.pdb
+C:\Users\zago\Desktop\Negocio\Capa de negocio\bin\Debug\Capa de datos.dll
+C:\Users\zago\Desktop\Negocio\Capa de negocio\bin\Debug\Capa de datos.pdb
+C:\Users\zago\Desktop\Negocio\Capa de negocio\obj\Debug\Capa de negocio.csprojResolveAssemblyReference.cache
+C:\Users\zago\Desktop\Negocio\Capa de negocio\obj\Debug\Capa de negocio.dll
+C:\Users\zago\Desktop\Negocio\Capa de negocio\obj\Debug\Capa de negocio.pdb
+C:\Users\PC\Documents\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de negocio.pdb
+C:\Users\PC\Documents\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de datos.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de datos.pdb
+C:\Users\PC\Documents\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.pdb
+C:\Users\zago\Documents\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de negocio.pdb
+C:\Users\zago\Documents\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de datos.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de datos.pdb
+C:\Users\zago\Documents\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.csprojResolveAssemblyReference.cache
+C:\Users\zago\Documents\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.pdb
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de negocio.pdb
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de datos.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de datos.pdb
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.csprojResolveAssemblyReference.cache
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll.config
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de negocio.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de datos.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\bin\Debug\Capa de datos.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\bin\Debug\MySql.Data.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\obj\Debug\Capa de negocio.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\obj\Debug\Capa de negocio.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll.config
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\bin\Debug\Capa de negocio.pdb
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\bin\Debug\Capa de datos.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\bin\Debug\MySql.Data.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\bin\Debug\Capa de datos.pdb
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\obj\Debug\Capa de negocio.pdb

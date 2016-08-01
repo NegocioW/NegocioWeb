@@ -1,0 +1,230 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+body{
+    background-image: url(../img/fondoweb.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#cabeza{
+     width: 900px;
+     height: 200px;
+     margin: 0 auto;
+}
+header{
+    background-image: url(../img/logo.png);
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+}
+#search{
+    width: 300px;
+    height: 50px;
+}
+header,#search{
+    display: inline-block;
+    vertical-align: middle;
+}
+#container{
+    background-color: #fff;
+    width: 900px;
+    height: 420px;
+    margin: 0 auto;
+    box-shadow: 1px 1px 7px #000;
+}
+nav{
+    margin: 5px auto;
+    border-bottom: 1px solid #428bca;
+}
+.menunav{
+    width: 780px;
+}
+.redes{
+   width: 100px;
+   float: right;
+}
+.menunav,.redes{
+    display: inline-block;
+    vertical-align: top;
+}
+.facebook{
+    background-image: url(../img/facebook_dark.png);
+    width: 32px;
+    height: 32px;
+}
+.facebook:hover{
+    background-image: url(../img/facebook_active.png);
+    width: 32px;
+    height: 32px;
+}
+.twitter{
+    background-image: url(../img/twitter02_dark.png);
+    width: 32px;
+    height: 32px;
+}
+.twitter:hover{
+    background-image: url(../img/twitter02_active.png);
+    width: 32px;
+    height: 32px;
+}
+.facebook,.twitter{
+    display: inline-block;
+    margin: 3px auto;
+    float: right;
+}
+
+section#galeria{
+    width: 900px;
+    height: 340px;
+    border-radius: 5px;
+}
+
+section#contenedor_principal{
+    width: 850px;
+    margin: 10px auto;
+    height: 340px;
+}
+
+
+
+
+h2{
+    margin: 0;     
+    color: #666;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;    
+}
+.item{
+    background: #333;    
+    text-align: center;
+    height: 340px;
+}
+.carousel{
+    margin-top: 20px;
+    height: 340px;
+}
+.bs-example{
+	margin: 20px;
+    height: 340px;
+}
+.carousel-caption{
+
+    background-image: url(../img/fondoslide.png);
+
+}
+
+/* ESTILO CAROUSEL*/
+footer{
+    background-image: url(../img/bg-header.png);
+    width: 900px;
+    height: 100px;
+    margin: 10px auto;
+    box-shadow: 1px 1px 7px #000;
+    color: #fff;
+    text-align: center;
+    line-height: 7;
+}
+.pelicula{
+    background-color: #D5D5D5;
+    width: 150px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px auto;
+}
+.nombre_pelicula h5{
+    font-weight: bolder;
+}
+.nombre_pelicula{
+    height: 50px;
+}
+/*PELICULA*/
+.imagen_pelicula,
+.nombre_pelicula,
+.ver_trailer,
+.reservar{
+    display: block;
+    width: 150px;
+    margin-top: 5px;
+    text-align: center;
+}
+.contenedorReserva{
+    width: 400px;
+}
+.imagen_pelicula,.contenedorReserva{
+    display: inline-block;
+    vertical-align: middle;
+}
+.textonormal,select{
+display: block;
+ width: 190px;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.next1{
+    background: url(../img/next.png) no-repeat transparent;
+    background-size: 100%;
+    background-position:-1px -1px;
+    padding: 80px 0 0 0;
+
+}
+.next2{
+    background: url(../img/next.png) no-repeat transparent;
+    background-size: 100%;
+    background-position:-1px -100px;
+    padding: 80px 0 0 0;
+
+}
+.next3{
+    background: url(../img/next.png) bottom no-repeat transparent;
+    background-size: 100%;
+    padding: 85px 0 0 0;
+
+}
+
+/*
+         POSICIONAMIENTO DE LA IMAGEN NEXT EN SUS ETAPAS
+.wrapper-shop .cart-steps ul{width:984px; height:82px; float:left; background: url(../img/bg-steps-shop-cart_new.png) no-repeat transparent;}
+.wrapper-shop .cart-steps ul.step_1{background-position:-1px -1px;}
+.wrapper-shop .cart-steps ul.step_2{background-position:-1px -105px;}
+.wrapper-shop .cart-steps ul.step_3{background-position:-1px -207px;}
+.wrapper-shop .cart-steps ul.step_4{background-position:-1px -305px;}
+.wrapper-shop .cart-steps ul.step_5{background-position:-1px  -403px;}
+*/
+
+/*QUITAR EL RESIZABLE DEL TEXTAREA*/
+textarea{
+    resize: none;
+    display: block;
+  width: 100%;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    
+}
