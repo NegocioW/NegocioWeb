@@ -15,7 +15,11 @@
   
     <center>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <h1>Formulario Categorias</h1>
+=======
+        <h1>Categorias</h1>
+>>>>>>> prueba
 =======
         <h1>Categorias</h1>
 >>>>>>> prueba
