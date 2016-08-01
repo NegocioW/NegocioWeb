@@ -1,0 +1,11 @@
+commit 36771a24ef741e551952adf1e320c257635c07bf
+Author: Sebastian <sebastianz1996@hotmail.com>
+Date:   Mon Aug 1 11:34:15 2016 -0500
+
+    le agregue titulo al formulario
+
+commit 9745c28c77025f36651ce26cfaed608e969340d4
+Author: Sebastian <sebastianz1996@hotmail.com>
+Date:   Mon Aug 1 11:32:20 2016 -0500
+
+    le pue texto a visualizar em boton e buscar

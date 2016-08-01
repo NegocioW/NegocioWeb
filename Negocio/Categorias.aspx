@@ -14,6 +14,7 @@
 
   
     <center>
+        <h1>Formulario Categorias</h1>
      <table style="width: 35%;">
          <tr>
              <td>&nbsp;</td>
