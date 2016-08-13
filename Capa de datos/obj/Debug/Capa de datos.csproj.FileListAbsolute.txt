@@ -59,7 +59,6 @@ C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\es\Mic
 C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.dll
 C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.pdb
 C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.csprojResolveAssemblyReference.cache
-C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\obj\Debug\Capa de datos.dll
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\Capa de datos.dll
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\Capa de datos.pdb
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.BonusSkins.v9.3.dll
@@ -85,4 +84,6 @@ C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpr
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.XtraEditors.v9.3.dll
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\obj\Debug\Capa de datos.dll
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\obj\Debug\Capa de datos.pdb
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\obj\Debug\Capa de datos.csprojResolveAssemblyReference.cache

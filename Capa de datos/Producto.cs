@@ -74,69 +74,87 @@ namespace Capa_de_datos
             return dtProducto;
         }
 
-        //public List<string> ObtenerDatos(int Codigo)
-        //{
-        //    SqlConnection SqlCon = new SqlConnection(Conexion.cn);
-        //    SqlCon.Open();
-        //    List<string> lista = new List<string>();
-        //    try
-        //    {
-        //        SqlCommand Command = new SqlCommand("SPBUSCARPRODUCTO", SqlCon);
-        //        Command.CommandType = CommandType.StoredProcedure;
-        //        Command.Parameters.Add("@Codigo", SqlDbType.Int).Value = Codigo;
-        //        SqlDataReader myReader=Command.ExecuteReader();
-        //        while (myReader.Read())
-        //        {
-        //            lista.Add(myReader.GetString(0));
-        //            lista.Add(myReader.GetDecimal(1).ToString());
-        //            lista.Add(myReader.GetDecimal(2).ToString());
-        //            lista.Add(myReader.GetInt32(3).ToString());
+//        public List<Producto> ObtenerProductos()
+//        {
+//            SqlConnection SqlCon = new SqlConnection(Conexion.cn);
+//            SqlCon.Open();
+//            List<string> lista4 = new List<string>();
+//            List<object> lista2 = new List<object>();
+//            List<Producto> lista = new List<Producto>();
+        
+        
+//            Producto p = new Producto();
+//            try
+//            {
+//                SqlCommand Command = new SqlCommand("sp_Sel_Producto_CAT", SqlCon);
+//                Command.CommandType = CommandType.StoredProcedure;
+//                //Command.Parameters.Add("@Codigo", SqlDbType.Int).Value = Codigo;
+//                SqlDataReader myReader = Command.ExecuteReader();
+//                while (myReader.Read())
+//                {
+//                    //lista.Add(myReader.GetString(0));
+//                    //lista.Add(myReader.GetDecimal(1).ToString());
+//                    //lista.Add(myReader.GetDecimal(2).ToString());
+//                    //lista.Add(myReader.GetInt32(3).ToString());
 
-        //        }
-        //    }
-        //    catch (Exception ex)
-        //    {
+//                    p.Var_CodProd = myReader.GetInt32(0);
+//                    p.Var_NombreProd = myReader.GetString(1);
+//                    p.Var_PrecioProd = myReader.GetDecimal(2);
+//                    p.Var_PrecioProdC = myReader.GetDecimal(3);
+//                    p.Var_Cate = myReader.GetInt32(4);
+////                    lista2.Add(new[]
+////{ 
+////    new {Cod_Producto= myReader.GetInt32(0),Nombre_Prod= myReader.GetString(1),Precio_Venta=myReader.GetDecimal(2),Precio_Compra= myReader.GetDecimal(3),Categoria=myReader.GetInt32(4)}
+////});
+//                 lista2 = new List<object>(lista);
 
-        //    }
-        //    finally
-        //    {
-        //        if (SqlCon.State == ConnectionState.Open)
-        //            SqlCon.Close();
-        //    }
-        //    return lista;
+//                    lista.Add(p);
+//                }
+//            }
+//            catch (Exception ex)
+//            {
+//                return null;
+//            }
+//            finally
+//            {
+//                if (SqlCon.State == ConnectionState.Open)
+//                    SqlCon.Close();
+//            }
+//            return lista;
 
-        //}
+//        }
         public Producto ObtenerDatos(int Codigo)
         {
-            SqlConnection SqlCon = new SqlConnection(Conexion.cn);
-            SqlCon.Open();
-            Producto p= new Producto();
-            try
-            {  
-                SqlCommand Command = new SqlCommand("SPBUSCARPRODUCTO", SqlCon);
-                Command.CommandType = CommandType.StoredProcedure;
-                Command.Parameters.Add("@Codigo", SqlDbType.Int).Value = Codigo;
-                SqlDataReader myReader = Command.ExecuteReader();
-                while (myReader.Read())
-                {
-                    p.Var_NombreProd = myReader.GetString(0);
-                    p.Var_PrecioProd = myReader.GetDecimal(1);
-                    p.Var_PrecioProdC = myReader.GetDecimal(2);
-                    p.Var_Cate = myReader.GetInt32(3);
-                   // var lista = p;
+            //SqlConnection SqlCon = new SqlConnection(Conexion.cn);
+            //SqlCon.Open();
+            //Producto p= new Producto();
+            //try
+            //{  
+            //    SqlCommand Command = new SqlCommand("SPBUSCARPRODUCTO", SqlCon);
+            //    Command.CommandType = CommandType.StoredProcedure;
+            //    Command.Parameters.Add("@Codigo", SqlDbType.Int).Value = Codigo;
+            //    SqlDataReader myReader = Command.ExecuteReader();
+            //    while (myReader.Read())
+            //    {
+            //        p.Var_NombreProd = myReader.GetString(0);
+            //        p.Var_PrecioProd = myReader.GetDecimal(1);
+            //        p.Var_PrecioProdC = myReader.GetDecimal(2);
+            //        p.Var_Cate = myReader.GetInt32(3);
+            //       // var lista = p;
 
-                }
-            }
-            catch (Exception ex)
-            {
+            //    }
+            //}
+            //catch (Exception ex)
+            //{
 
-            }
-            finally
-            {
-                if (SqlCon.State == ConnectionState.Open)
-                    SqlCon.Close();
-            }
-            return p;
+            //}
+            //finally
+            //{
+            //    if (SqlCon.State == ConnectionState.Open)
+            //        SqlCon.Close();
+            //}
+            //return p;
+            return new Producto { Var_NombreProd = "nada", Var_PrecioProd = 1000, Var_PrecioProdC = 200, Var_Cate = 1 };
 
         }
 

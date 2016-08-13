@@ -17,16 +17,7 @@
                 <asp:BoundField DataField="Nombre_Prod" HeaderText="Nombre Producto" SortExpression="Nombre_Prod" />
                 <asp:BoundField DataField="Precio_Venta" HeaderText="Precio" SortExpression="Precio_Venta" />
                 <asp:BoundField DataField="Precio_Compra" HeaderText="Precio Compra" />
-                <asp:TemplateField HeaderText="Categoria">
-                    <EditItemTemplate>
-                        <asp:TextBox ID="TextBox1" runat="server" Text='<%# Bind("Categoria") %>'></asp:TextBox>
-                    </EditItemTemplate>
-                    <ItemTemplate>
-                        <asp:Label ID="Label1" runat="server" Text='<%# Bind("Categoria") %>'></asp:Label>
-                   
-                    </ItemTemplate>
-
-                </asp:TemplateField>
+ 
                 <asp:CommandField ShowSelectButton="True" />
                 <asp:CommandField ShowEditButton="True" />
             </Columns>

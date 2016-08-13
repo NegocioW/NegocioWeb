@@ -56,12 +56,12 @@ C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa
 C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.dll
 C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\obj\Debug\Capa de negocio.pdb
 C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de negocio\bin\Debug\MySql.Data.dll
-C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\obj\Debug\Capa de negocio.csprojResolveAssemblyReference.cache
-C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\obj\Debug\Capa de negocio.dll
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll.config
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\bin\Debug\Capa de negocio.dll
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\bin\Debug\Capa de negocio.pdb
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\bin\Debug\Capa de datos.dll
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\bin\Debug\MySql.Data.dll
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\bin\Debug\Capa de datos.pdb
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\obj\Debug\Capa de negocio.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\obj\Debug\Capa de negocio.dll
 C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de negocio\obj\Debug\Capa de negocio.pdb

@@ -1,0 +1,88 @@
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Capa de datos\bin\Debug\Capa de datos.dll
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Capa de datos\bin\Debug\Capa de datos.pdb
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Capa de datos\obj\Debug\Capa de datos.csprojResolveAssemblyReference.cache
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Capa de datos\obj\Debug\Capa de datos.dll
+C:\Users\zago\Documents\Visual Studio 2012\Projects\Negocio\Capa de datos\obj\Debug\Capa de datos.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Capa de datos\bin\Debug\Capa de datos.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Capa de datos\bin\Debug\Capa de datos.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Capa de datos\obj\Debug\Capa de datos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Capa de datos\obj\Debug\Capa de datos.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\Negocio\Capa de datos\obj\Debug\Capa de datos.pdb
+H:\Negocio\Capa de datos\bin\Debug\Capa de datos.dll
+H:\Negocio\Capa de datos\bin\Debug\Capa de datos.pdb
+H:\Negocio\Capa de datos\obj\Debug\Capa de datos.csprojResolveAssemblyReference.cache
+H:\Negocio\Capa de datos\obj\Debug\Capa de datos.dll
+H:\Negocio\Capa de datos\obj\Debug\Capa de datos.pdb
+C:\Users\zago\Desktop\Negocio\Capa de datos\bin\Debug\Capa de datos.dll
+C:\Users\zago\Desktop\Negocio\Capa de datos\bin\Debug\Capa de datos.pdb
+C:\Users\zago\Desktop\Negocio\Capa de datos\obj\Debug\Capa de datos.csprojResolveAssemblyReference.cache
+C:\Users\zago\Desktop\Negocio\Capa de datos\obj\Debug\Capa de datos.dll
+C:\Users\zago\Desktop\Negocio\Capa de datos\obj\Debug\Capa de datos.pdb
+C:\Users\PC\Documents\Negocio Web\Negocio\Capa de datos\bin\Debug\Capa de datos.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Capa de datos\bin\Debug\Capa de datos.pdb
+C:\Users\PC\Documents\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.dll
+C:\Users\PC\Documents\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.pdb
+C:\Users\zago\Documents\Negocio Web\Negocio\Capa de datos\bin\Debug\Capa de datos.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Capa de datos\bin\Debug\Capa de datos.pdb
+C:\Users\zago\Documents\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.csprojResolveAssemblyReference.cache
+C:\Users\zago\Documents\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.dll
+C:\Users\zago\Documents\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.pdb
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Capa de datos\bin\Debug\Capa de datos.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Capa de datos\bin\Debug\Capa de datos.pdb
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.dll
+C:\Users\ANDRES RIVERA\Documents\Visual Studio 2013\Projects\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\Capa de datos.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\Capa de datos.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.BonusSkins.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Charts.v9.3.Core.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Data.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Data.v9.3.Linq.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Utils.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxEditors.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxGauges.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxGridView.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxGridView.v9.3.Export.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxScheduler.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxSpellChecker.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxThemes.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxTreeList.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.Web.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.XtraGauges.v9.3.Core.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.XtraGauges.v9.3.Presets.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.XtraPrinting.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.XtraScheduler.v9.3.Core.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.XtraSpellChecker.v9.3.Core.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\DevExpress.XtraEditors.v9.3.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.dll
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.pdb
+C:\Users\PC\Downloads\Negocio\Negocio Web\Negocio\Capa de datos\obj\Debug\Capa de datos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\obj\Debug\Capa de datos.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\Capa de datos.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\Capa de datos.pdb
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.BonusSkins.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Charts.v9.3.Core.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Data.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Data.v9.3.Linq.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Utils.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxEditors.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxGauges.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxGridView.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxGridView.v9.3.Export.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxScheduler.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxSpellChecker.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxThemes.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Web.ASPxTreeList.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.Web.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.XtraGauges.v9.3.Core.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.XtraGauges.v9.3.Presets.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.XtraPrinting.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.XtraScheduler.v9.3.Core.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.XtraSpellChecker.v9.3.Core.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\DevExpress.XtraEditors.v9.3.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\Capa de datos\obj\Debug\Capa de datos.pdb

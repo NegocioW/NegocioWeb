@@ -13,8 +13,11 @@ namespace Negocio
         {
             if (!IsPostBack)
             {
-                dgProductos.DataSource = NegProductos.ObtenerProd();
+             
+
+                 dgProductos.DataSource = NegProductos.ObtenerProd();
                 dgProductos.DataBind();
+               
             }
         }
 
@@ -58,10 +61,10 @@ namespace Negocio
             t4 = (TextBox)dgProductos.Rows[Convert.ToInt32(HiddenField1.Value)].Cells[3].Controls[0];
             t5 = (TextBox)dgProductos.Rows[Convert.ToInt32(HiddenField1.Value)].Cells[4].Controls[0];
 
-            NegProductos.ObtenerProd().Rows[e.RowIndex]["Cod_Producto"] = t1.Text;
-            NegProductos.ObtenerProd().Rows[e.RowIndex]["Nombre_Prod"] = t2.Text;
-            NegProductos.ObtenerProd().Rows[e.RowIndex]["Precio_Venta"] = t3.Text;
-            NegProductos.ObtenerProd().Rows[e.RowIndex]["Precio_Compra"] = t4.Text;
+            //NegProductos.ObtenerProd().Rows[e.RowIndex]["Cod_Producto"] = t1.Text;
+            //NegProductos.ObtenerProd().Rows[e.RowIndex]["Nombre_Prod"] = t2.Text;
+            //NegProductos.ObtenerProd().Rows[e.RowIndex]["Precio_Venta"] = t3.Text;
+            //NegProductos.ObtenerProd().Rows[e.RowIndex]["Precio_Compra"] = t4.Text;
            
 
             dgProductos.EditIndex = -1;

@@ -10,11 +10,16 @@ namespace Capa_de_negocio
 {
    public class NegProductos
     {
-        public static DataTable ObtenerProd()
-        {
-            //obtener de tipo de datatable
-            return new Producto().ObtenerProductos();
-        }
+       public static DataTable ObtenerProd()
+       {
+           //obtener de tipo de datatable
+           return new Producto().ObtenerProductos();
+       }
+        //public static List<Producto> ObtenerProd()
+        //{
+        //    //obtener de tipo de datatable
+        //    return new Producto().ObtenerProductos();
+        //}
         public static string NegActualizar(int CodProd, string NomProd, decimal PrecProd,decimal PrecProdC, int codCat)
         {
 

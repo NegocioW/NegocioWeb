@@ -32,6 +32,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{9E96C923-C276-
 		..\..\mod\js\jquery.1.8.1.js = ..\..\mod\js\jquery.1.8.1.js
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFNEGOGOCIO", "WCFNEGOGOCIO\WCFNEGOGOCIO.csproj", "{0B0FC5D7-522F-4200-8F8E-1F2A4CC37BA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{6DC36FEA-D9D2-44D7-B5F6-DB00D3371264}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DC36FEA-D9D2-44D7-B5F6-DB00D3371264}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DC36FEA-D9D2-44D7-B5F6-DB00D3371264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B0FC5D7-522F-4200-8F8E-1F2A4CC37BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0FC5D7-522F-4200-8F8E-1F2A4CC37BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0FC5D7-522F-4200-8F8E-1F2A4CC37BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0FC5D7-522F-4200-8F8E-1F2A4CC37BA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

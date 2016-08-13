@@ -1,0 +1,5 @@
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\WCFNEGOGOCIO\bin\WCFNEGOGOCIO.dll.config
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\WCFNEGOGOCIO\bin\WCFNEGOGOCIO.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\WCFNEGOGOCIO\bin\WCFNEGOGOCIO.pdb
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\WCFNEGOGOCIO\obj\Debug\WCFNEGOGOCIO.dll
+C:\Users\PC\Downloads\Negocio\NegocioWeb\Negocio\WCFNEGOGOCIO\obj\Debug\WCFNEGOGOCIO.pdb
